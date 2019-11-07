@@ -2,11 +2,14 @@
 // Finally, return the two strings concatenated together. Since the funciotn doesn't require any paramaters
 // you should use the empty () syntax of _ syntax.
 
+noParam => () => {
+    let string1 = "string1";
+    let string2 = "string2";
 
-function noParam() {
-
+    return string1 + " " + string2;
 }
 
+console.log(noParam())
 
 
 
