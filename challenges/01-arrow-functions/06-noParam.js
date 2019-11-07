@@ -9,7 +9,7 @@ noParam => () => {
     return string1 + " " + string2;
 }
 
-console.log(noParam())
+
 
 
 
