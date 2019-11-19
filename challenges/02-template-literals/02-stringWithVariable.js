@@ -2,8 +2,8 @@
 //interpolation
 
 const stringWithVariable = _ => {
-    const CITY = 'Defiance'; 
-    return 'Welcome to ' + CITY;
+    const CITY = `Defiance`; 
+    return `Welcome to ${CITY}`
 };
 
 
